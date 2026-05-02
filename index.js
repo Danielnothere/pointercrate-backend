@@ -11,8 +11,8 @@ app.use(express.json());
 
 // Sample data
 const demons = [
-  { rank: 1, name: "Acheron", creator: "Riot" },
-  { rank: 2, name: "Slaughterhouse", creator: "Multiple" }
+  { rank: 1, name: "Personal Hell", creator: "deadlocked992", difficulty: "Extreme Demon", verifier: "Not Verified" },
+  { rank: 2, name: "forgotten clubstep", creator: "deadlocked992", difficulty: "Extreme Demon", verifier: "Not Verified" }
 ];
 
 // API route
